@@ -1,0 +1,40 @@
+    .main_div {
+        font-family: rancho;
+        font-size: 6em;
+    }
+    
+    .background_div {
+        position: absolute;
+        width: 100%;
+        height: 100%;
+        background: url('../background.png');
+        text-align: center;
+    }
+    
+    .float_left {
+        float: left;
+        padding: 0 0 0 15px;
+    }
+    
+    .float_right {
+        float: right;
+        border-right: 2px dotted black;
+        padding: 0 15px 0 0;
+    }
+    
+    .padding_top {
+        padding-top: 65px;
+    }
+    
+    .signUpText {
+        font-family: rancho;
+        font-size: 2em;
+        color: #fff;
+        cursor: pointer;
+    }
+    
+    .loginText {
+        font-family: rancho;
+        font-size: 2em;
+        cursor: pointer;
+    }
